@@ -113,7 +113,7 @@ set "MODE=main"
 
 REM refresh input json 
 del "%localappdata%\revanced-cli\input.json" > nul 2> nul
-powershell -NoProfile -NonInteractive -Command "Invoke-WebRequest 'https://raw.githubusercontent.com/taku-nm/auto-cli/!MODE!/input3.json' -OutFile '!PSlocalData!\revanced-cli\input.json' -Headers @{'Cache-Control'='no-cache'}"
+powershell -NoProfile -NonInteractive -Command "Invoke-WebRequest 'https://raw.githubusercontent.com/rajen77/auto-cli-ext/!MODE!/input3.json' -OutFile '!PSlocalData!\revanced-cli\input.json' -Headers @{'Cache-Control'='no-cache'}"
 if exist "%localappdata%\revanced-cli\input.json" (
    set "inputJson=!PSlocalData!\revanced-cli\input.json"
 ) else (
