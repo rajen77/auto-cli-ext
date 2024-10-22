@@ -124,7 +124,7 @@
             {
                 "fname": "YouTube.apk",
                 "dname": "YouTube (ReVanced logo) (19.34.42)",
-                "link": "https://patyesz.hu/com.google.android.youtube_19.34.42.apk",
+                "link": "https://patyesz.hu/cli/com.google.android.youtube_19.34.42.apk",
                 "hash": "c9d9b6612e7724ada664558d67150ed9d1cb318c62818f4e7451fdae089ed4aa",
                 "patches": "-i \"Custom branding\"",
                 "uri" : " ",
