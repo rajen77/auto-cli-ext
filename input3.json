@@ -19,7 +19,7 @@
             },
             "JDK": {
                 "fname": "jdk.zip",
-                "link": "https://patyesz.hu/cli/jdk.zip",
+                "link": "https://miui.hu/revanced/jdk.zip",
                 "hash": "5c6b84417f108479c0ff5adc5a3bff1e1af531129573fcfeb2520f8395282e34"
             },
             "BCS": {
@@ -124,7 +124,7 @@
             {
                 "fname": "YouTube.apk",
                 "dname": "YouTube (ReVanced logo) (19.34.42)",
-                "link": "https://patyesz.hu/cli/com.google.android.youtube_19.34.42.apk",
+                "link": "https://miui.hu/revanced/com.google.android.youtube_19.34.42.apk",
                 "hash": "c9d9b6612e7724ada664558d67150ed9d1cb318c62818f4e7451fdae089ed4aa",
                 "patches": "-i \"Custom branding\"",
                 "uri" : " ",
@@ -162,7 +162,7 @@
 			{
                 "fname": "YouTube_Music.apk",
                 "dname": "YouTube Music (other devices) (7.03.52)",
-                "link": "https://patyesz.hu/cli/com.google.android.apps.youtube.music_7.03.52.apk",
+                "link": "https://miui.hu/revanced/com.google.android.apps.youtube.music_7.03.52.apk",
                 "hash": "3c605549122de305b8dd36ed1a7996cd905ae29a979e4b744caecdcb20ed4650",
                 "patches": " ",
                 "uri" : " ",
@@ -179,7 +179,7 @@
 			{
                 "fname": "TikTok.apk",
                 "dname": "TikTok (36.5.4)",
-                "link": "https://patyesz.hu/cli/com.zhiliaoapp.musically_36.5.4.apk",
+                "link": "https://miui.hu/revanced/com.zhiliaoapp.musically_36.5.4.apk",
                 "hash": "ceb5f0e9dc1173a811fb16802cacc97845e09b12f5a70bcdb9a7eb9849f79f43",
                 "patches": "-i \"SIM spoof\"",
                 "uri" : " ",
@@ -192,7 +192,7 @@
 			{
                 "fname": "Twitch.apk",
                 "dname": "Twitch (16.9.1)",
-                "link": "https://patyesz.hu/cli/tv.twitch.android.app_16.9.1.apk",
+                "link": "https://miui.hu/revanced/tv.twitch.android.app_16.9.1.apk",
                 "hash": "137ee0a1e474c2a57f7db0a869f7d78d8225d3468ead7afbbf0d5d56cf29545e",
                 "patches": " ",
                 "uri" : " ",
@@ -205,7 +205,7 @@
 			{
                 "fname": "Twitter.apk",
                 "dname": "Twitter (Android 8+) (10.49.0)",
-                "link": "https://patyesz.hu/cli/com.twitter.android_10.49.0.apk",
+                "link": "https://miui.hu/revanced/com.twitter.android_10.49.0.apk",
                 "hash": "bad49bc850736fe34cb68fb2d7f7f33bc1978bee5185e1db6a823c8cf3cc4522",
                 "patches": "-e \"Open links with app chooser\" ",
                 "uri" : " ",
@@ -244,7 +244,7 @@
 			{
                 "fname": "Instagram.apk",
                 "dname": "Instagram (354.1.0.46.100)",
-                "link": "https://patyesz.hu/cli/com.instagram.android_354.1.0.46.100.apk",
+                "link": "https://miui.hu/revanced/com.instagram.android_354.1.0.46.100.apk",
                 "hash": "d8f9c621a6c3005791be7407a6fefdc8ce3f2be4484b9b229b5d7593dde6eeb1",
                 "patches": " ",
                 "uri" : " ",
