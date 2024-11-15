@@ -3,14 +3,14 @@
     "downloads": {
         "tools": {
             "cli": {
-                "fname": "revanced-cli-4.6.0-all.jar",
-                "link": "https://github.com/ReVanced/revanced-cli/releases/download/v4.6.0/revanced-cli-4.6.0-all.jar",
-                "hash": "4101fb68491f0542ea02f27416c285c6bada1638359b52499ee0edcaf2c95c49"
+                "fname": "revanced-cli-5.0.0-all.jar",
+                "link": "https://github.com/ReVanced/revanced-cli/releases/download/v5.0.0/revanced-cli-5.0.0-all.jar",
+                "hash": "2b1c5d303c9b181120bb63b4c28cc50ccb33203cf8947add390d900f9fe7f2d8"
             },
             "patches": {
-                "fname": "revanced-patches-4.17.0.jar",
-                "link": "https://github.com/ReVanced/revanced-patches/releases/download/v4.17.0/revanced-patches-4.17.0.jar",
-                "hash": "5251ba6deaada3c27eefd39c2f7504ec5c497a9f0af91fbe9455b9c09f418047"
+                "fname": "revanced-patches-5.0.2.rvp",
+                "link": "https://github.com/ReVanced/revanced-patches/releases/download/v5.0.2/patches-5.0.2.rvp",
+                "hash": "4f3780f375edfe46290e972c855e1e0fdadc4fa3e5f2f545c89eb7abc49da218"
             },
             "integrations": {
                 "fname": "revanced-integrations-1.16.0.apk",
