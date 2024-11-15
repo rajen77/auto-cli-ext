@@ -124,8 +124,8 @@
             {
                 "fname": "YouTube.apk",
                 "dname": "YouTube (ReVanced logo) (19.34.42)",
-                "link": "https://miui.hu/revanced/com.google.android.youtube_19.34.42.apk",
-                "hash": "c9d9b6612e7724ada664558d67150ed9d1cb318c62818f4e7451fdae089ed4aa",
+                "link": "https://miui.hu/revanced/com.google.android.youtube_19.43.41.apk",
+                "hash": "d57813bf71181833562ee33707071c8f7c54fdbf771dcbb9c737d9e71e888f83",
                 "patches": "-i \"Custom branding\"",
                 "uri" : " ",
                 "toolMod" : " ",
